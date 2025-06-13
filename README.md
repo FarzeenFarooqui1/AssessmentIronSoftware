@@ -35,7 +35,7 @@ Input :  "222 2 22#" Output:  "CAB"  //testing the pause reset between tapping t
 
 Input :  "222*333*111" Output: ""  //for testing a blank case
 
-Input :  "2 22 222 3 33 333 4 44 444 5 55 555 6 66 666 7 77 777 7777 8 88 888 9 99 999 9999" Output: "ABCDEFGHIJKLMNOPQRSTUVWXYZ")// Alphabet
+Input :  "2 22 222 3 33 333 4 44 444 5 55 555 6 66 666 7 77 777 7777 8 88 888 9 99 999 9999" Output: "ABCDEFGHIJKLMNOPQRSTUVWXYZ" // Alphabet
 
 ## Getting Started
 
