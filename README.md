@@ -24,7 +24,7 @@ Features:
 Test Cases:
 
 Input : "33#" Output: "E"  // simple testing
- "227*#" Output:  "B")  // testing with back space
+ "227*#" Output:  "B"  // testing with back space
 
 Input :  "4433555 555666 96667775553 # " Output: "HELLOWORLD" //testing more than one word(joined together)
 
