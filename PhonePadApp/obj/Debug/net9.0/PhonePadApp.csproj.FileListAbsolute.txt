@@ -1,0 +1,15 @@
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.AssemblyInfoInputs.cache
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.AssemblyInfo.cs
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.csproj.CoreCompileInputs.cache
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.sourcelink.json
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/bin/Debug/net9.0/PhonePadApp
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/bin/Debug/net9.0/PhonePadApp.deps.json
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/bin/Debug/net9.0/PhonePadApp.runtimeconfig.json
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/bin/Debug/net9.0/PhonePadApp.dll
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/bin/Debug/net9.0/PhonePadApp.pdb
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.dll
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/refint/PhonePadApp.dll
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.pdb
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/PhonePadApp.genruntimeconfig.cache
+/Users/farzeent.farooqui/Downloads/OldPhone/PhonePadApp/obj/Debug/net9.0/ref/PhonePadApp.dll
