@@ -28,6 +28,6 @@ This program converts digit sequences like `"4433555 555666096667775553#"` into 
 - Steps to Run:
   - git clone https://github.com/your-username/PhonePadApp.git
   - cd PhonePadApp
-  - `'dotnet restore     # Ensures dependencies are available'`
-  - `'dotnet run         # Builds and runs the app'`
+  - `dotnet restore     # Ensures dependencies are available`
+  - `dotnet run         # Builds and runs the app`
 
